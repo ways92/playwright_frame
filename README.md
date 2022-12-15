@@ -2,7 +2,8 @@
 
 > Technologies / Tools :
 - PlayWright
-- Page Object Model 
+- Page Object Model (POM)
+- Data Driven Testing (DDT)
 
 
 > Run this project :
